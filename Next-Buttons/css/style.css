@@ -17,6 +17,10 @@ img{
   height: auto;
 }
 
+.next, .previous {
+  visibility: hidden;
+}
+
 
 /******************************************
 /* ADDITIONAL STYLES
